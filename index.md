@@ -53,12 +53,12 @@ title: Wenjun Hu - AI Research
         <div class="tabs-header">
             <button class="tab-button" onclick="showTab('genai')">Generative AI & LLMs</button>
             <button class="tab-button" onclick="showTab('computer-vision')">Computer Vision</button>
-            <button class="tab-button" onclick="showTab('optimization')">Optimization & ML</button>
+            <button class="tab-button" onclick="showTab('optimization')">Scientific ML</button>
         </div>
         
         <div id="genai" class="tab-content">
             <div style="margin: 40px 0;">
-                <h3>Generative AI & Large Language Models</h3>
+                <h3>Generative AI & LLMs</h3>
                 <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My work in generative AI focuses on developing more reliable and efficient language models through novel uncertainty quantification methods and data-efficient alignment techniques. I am particularly interested in creating multimodal systems that can seamlessly integrate text, image, and structured data to solve complex real-world problems.</p>
                 
                 <h4>Current Research Focus</h4>

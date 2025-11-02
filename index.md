@@ -130,6 +130,22 @@ title: Wenjun Hu - AI Research
 </div>
 
 <div class="content-section">
+    <h2>Recent Projects</h2>
+    
+    <div class="publication-item">
+        <strong>PaVeRL-SQL: Text-to-SQL via Partial-Match Rewards and Verbal Reinforcement Learning</strong><br>
+        <em>arXiv:2509.07159, 2025</em><br>
+        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Novel uncertainty-aware reward model that significantly improves LLM alignment with reduced human feedback requirements. Demonstrates substantial improvements on Vicuna and MT-bench evaluations.</p>
+    </div>
+    
+    <div class="publication-item">
+        <strong>Bayesian active learning for semantic segmentation</strong><br>
+        <em>arXiv:2408.01694, 2024</em><br>
+        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Introduces Beta distribution approximation for efficient uncertainty estimation in semantic segmentation, achieving significant annotation cost reductions.</p>
+    </div>
+</div>
+
+<div class="content-section">
     <h2>Education</h2>
     
     <div class="timeline-item">

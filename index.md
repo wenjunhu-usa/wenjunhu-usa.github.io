@@ -94,7 +94,7 @@ title: Wenjun Hu - AI Research
         
         <div id="physics" class="tab-content">
             <div style="margin: 40px 0;">
-                <h3>Scientific Machine Learning</h3>
+                <h3>Scientific ML</h3>
                 <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My optimization.</p>
                 
                 <h4>Key Methodologies</h4>

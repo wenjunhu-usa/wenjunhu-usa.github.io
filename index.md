@@ -47,7 +47,7 @@ title: Wenjun Hu - AI Research
 <div class="content-section">
     <h2>Research Interests</h2>
     
-    <p style="margin-bottom: 30px;">My research is focused on </p>
+    <p style="margin-bottom: 30px;">My research focuses on developing foundational AI algorithms and applying state-of-the-art models to real-world problems.</p>
     
     <div class="research-tabs">
         <div class="tabs-header">

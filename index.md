@@ -8,7 +8,7 @@ title: Wenjun Hu - AI Research
         <div class="profile-info">
             <h1>Wenjun Hu</h1>
             <div class="profile-summary">
-                <p>Welcome to my portfolio. I am an AI Scientist with over 5 years of experience specializing in deep learning, generative AI, and large language models. Beyond research, I design and implement end-to-end AI pipelines that align with user needs—transforming cutting-edge models into practical, scalable solutions that create measurable impact across industries.</p>
+                <p>Welcome to my portfolio. I am an AI Scientist with 5+ years of experience specializing in deep learning, generative AI, and large language models. Beyond research, I design and implement end-to-end AI pipelines that align with user needs—transforming cutting-edge models into practical, scalable solutions that create measurable impact across industries.</p>
                 <p>For an in-depth view of my research interests, publications, and current projects, please explore the research-area tabs below.</p>
             </div>
         </div>

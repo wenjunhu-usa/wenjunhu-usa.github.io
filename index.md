@@ -92,9 +92,9 @@ title: Wenjun Hu - AI Research
             </div>
         </div>
         
-        <div id="optimization" class="tab-content">
+        <div id="physics" class="tab-content">
             <div style="margin: 40px 0;">
-                <h3>Optimization & Machine Learning</h3>
+                <h3>Scientific Machine Learning</h3>
                 <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My optimization.</p>
                 
                 <h4>Key Methodologies</h4>
@@ -106,7 +106,7 @@ title: Wenjun Hu - AI Research
                     <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
                 </ul>
 
-                <a href="optimization.html" class="explore-button">Explore Research</a>
+                <a href="physics.html" class="explore-button">Explore Research</a>
             </div>
         </div>
     </div>

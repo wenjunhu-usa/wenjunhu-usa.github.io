@@ -53,7 +53,7 @@ title: Wenjun Hu - AI Research
         <div class="tabs-header">
             <button class="tab-button" onclick="showTab('genai')">Generative AI & LLMs</button>
             <button class="tab-button" onclick="showTab('computer-vision')">Computer Vision</button>
-            <button class="tab-button" onclick="showTab('optimization')">Scientific ML</button>
+            <button class="tab-button" onclick="showTab('physics')">Scientific ML</button>
         </div>
         
         <div id="genai" class="tab-content">

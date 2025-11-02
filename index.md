@@ -58,7 +58,7 @@ title: Wenjun Hu - AI Research
         
         <div id="genai" class="tab-content">
             <div style="margin: 40px 0;">
-                <h3>Generative AI & LLMs</h3>
+                <h3>Generative AI & Large Language Models</h3>
                 <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My work in generative AI focuses on developing more reliable and efficient language models through novel uncertainty quantification methods and data-efficient alignment techniques. I am particularly interested in creating multimodal systems that can seamlessly integrate text, image, and structured data to solve complex real-world problems.</p>
                 
                 <h4>Current Research Focus</h4>
@@ -94,7 +94,7 @@ title: Wenjun Hu - AI Research
         
         <div id="physics" class="tab-content">
             <div style="margin: 40px 0;">
-                <h3>Scientific ML</h3>
+                <h3>Scientific Machine Learning</h3>
                 <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My optimization.</p>
                 
                 <h4>Key Methodologies</h4>

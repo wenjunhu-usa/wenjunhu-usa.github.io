@@ -180,12 +180,12 @@ title: Wenjun Hu - AI Research
           <p>Department of Physics & Astronomy, CSU Northridge | Northridge, CA</p>
         </div>
         <ul>
-            <li>Developed high efficient variational Monte Carlo codes for studying the Entanglement Entropy of the U(1) gapless spin liquid with a spinon Fermi surface. Achievements: published one paper in Physical Review Letters, which is the best physical journal with Impact Factor: 8.385 in 2019.</li>
-            <li>Implemented the Graphic Neural Network for studying the ground state of the quantum many-body systems; designed a distributed workflow on multiple accelerators to scale up the computation for the GCNs in variational Monte Carlo. Achievements: published one paper in NeurIPS 2020 workshop on Machine Learning and the Physical Sciences.</li>
-            <li>Developed and implemented the spin-1 SU(2) DMRG codes for studying the spin dipolar and quadrupolar phases in the two-dimensional spin-1 models. Achievements: published 10 papers, including two Physical Review Letters.</li>
-            <li>Designed an efficient Convolutional Neural Network architecture to study quantum many-body systems; developed an importance sampling gradient optimization algorithm to significantly improve the computational speed of training DNNs by variational Monte Carlo. Achievements: published one paper in Physical Review Research.</li>
-            <li>Developed new algorithms and variational Monte Carlo codes for studying the chiral spin liquids in the kagome and triangular models. Achievements: published two papers in Physical Review B with a total of 60+ citations. This project shows a new way to understand chiral spin liquid in Monte Carlo techniques.</li>
-            <li>Developed and implemented the spin-1/2 SU(2) DMRG codes for studying the spin liquid phase in the triangular model. Achievements: published two papers in Physical Review B with a total of 240+ citations, and this project opens a new research direction in the frustration community.</li>
+            <li>Developed efficient variational Monte Carlo codes to study entanglement entropy in U(1) gapless spin liquids with a spinon Fermi surface; published in Physical Review Letters.</li>
+            <li>Implemented graph neural networks and distributed computation to study quantum many-body ground states using variational Monte Carlo; presented at NeurIPS 2020 (ML & Physical Sciences Workshop).</li>
+            <li>Developed spin-1 SU(2) DMRG algorithms to explore dipolar and quadrupolar phases in 2D spin models; produced 10 papers, including two in Physical Review Letters.</li>
+            <li>Designed convolutional neural networks and new optimization algorithms to accelerate variational Monte Carlo training for quantum many-body systems; published in Physical Review Research.</li>
+            <li>Created new Monte Carlo algorithms to study chiral spin liquids in kagome and triangular models; published two Physical Review B papers with 150+ citations.</li>
+            <li>Developed spin-1/2 SU(2) DMRG codes to investigate spin-liquid phases in triangular models; published two Physical Review B papers with 570+ citations and opened a new research direction in frustrated magnetism.</li>
         </ul>
     </div>
 </div>

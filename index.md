@@ -158,7 +158,7 @@ title: Wenjun Hu - AI Research
         <h4>Major Projects:</h4>
         <ul>
             <li><strong>Data Understanding & Management:</strong> Analyzed, organized, and managed user data; developed pipelines and databases to support model training and user-driven applications.</li>
-            <li><strong>Generative AI & Large Language Models:</strong> Designed and fine-tuned Text-to-SQL systems, developed data-efficient alignment strategies, and customized multimodal LLMs for both text and tabular data.</li>
+            <li><strong>Generative AI & Large Language Models:</strong> Designed and fine-tuned Text-to-SQL systems, developed data-efficient alignment strategies, customized multimodal LLMs for both text and tabular data, explored reinforcement learning techniques for policy optimization, and built intelligent agents with memory and multi-step reasoning capabilities.</li>
             <li><strong>Computer Vision:</strong> Built an active learning framework for image classification, object detection, and semantic segmentation tasks.</li>
         </ul>
     </div>

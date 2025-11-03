@@ -114,11 +114,12 @@ title: Wenjun Hu - AI Research
                 </ul>
 
                 <div class="publication-item">
-                    <strong>Scalable variational Monte Carlo with graph neural ansatz</strong><br>
+                    <strong>Scalable variational Monte Carlo with graph neural ansatz</strong>
                     <a href="https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_92.pdf" target="_blank">NeurIPS Workshop on Machine Learning for Physical Sciences (ML4PS) 2020</a>
                 </div>
+                
                 <div class="publication-item">
-                    <strong>Deep learning-enhanced variational Monte Carlo method for quantum many-body physics</strong><br>
+                    <strong>Deep learning-enhanced variational Monte Carlo method for quantum many-body physics</strong>
                     <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.012039" target="_blank">Phys. Rev. Research 2, 012039(R)</a>
                 </div>
             </div>

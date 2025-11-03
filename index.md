@@ -154,11 +154,6 @@ title: Wenjun Hu - AI Research
             <li>Develop and deploy AI-driven products, solutions, and pipelines to meet diverse user requirements.</li>
             <li>Collaborate across teams to translate user needs into scalable AI systems and ensure smooth technology development and deployment.</li>
         </ul>
-        
-        <h4>Major Projects:</h4>
-        <ul>
-            <li><strong>Generative AI & Large Language Models:</strong> Developed Text-to-SQL models, data-efficient LLM alignment techniques, and tailored multimodal LLMs for text, image, and tabular data formats</li>
-        </ul>
     </div>
     
     <div class="timeline-item">

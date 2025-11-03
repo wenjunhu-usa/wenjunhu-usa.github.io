@@ -47,7 +47,7 @@ title: Wenjun Hu - AI Research
 <div class="content-section">
     <h2>Research Interests</h2>
     
-    <p style="margin-bottom: 30px;">My research focuses on developing foundational AI algorithms and applying state-of-the-art models to real-world problems.</p>
+    <p style="margin-bottom: 30px;">My research focuses on developing foundational AI algorithms and applying state-of-the-art models to real-world problems. For a complete list of publications and citations, please visit my <a href="https://scholar.google.com/citations?user=rCG_IBgAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
     
     <div class="research-tabs">
         <div class="tabs-header">
@@ -72,9 +72,7 @@ title: Wenjun Hu - AI Research
                 
                 <div class="publication-item">
                     <strong>PaVeRL-SQL: Text-to-SQL via Partial-Match Rewards and Verbal Reinforcement Learning</strong><br>
-                    <a href="https://arxiv.org/abs/2509.07159" target="_blank">
-                        <em>arXiv:2509.07159</em><br>
-                    </a>
+                    <a href="https://arxiv.org/abs/2509.07159" target="_blank">arXiv:2509.07159</a>
                 </div>
             </div>
         </div>
@@ -95,9 +93,7 @@ title: Wenjun Hu - AI Research
                 
                 <div class="publication-item">
                     <strong>Bayesian active learning for semantic segmentation</strong><br>
-                    <a href="https://arxiv.org/abs/2408.01694" target="_blank">
-                        <em>arXiv:2408.01694, 2024</em><br>
-                    </a>
+                    <a href="https://arxiv.org/abs/2408.01694" target="_blank">arXiv:2408.01694</a>
                 </div>
             </div>
         </div>
@@ -119,13 +115,9 @@ title: Wenjun Hu - AI Research
 
                 <div class="publication-item">
                     <strong>Scalable variational Monte Carlo with graph neural ansatz</strong><br>
-                    <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_92.pdf" target="_blank">
-                        <em>NeurIPS Workshop on Machine Learning for Physical Sciences (ML4PS) 2020</em><br>
-                    </a>
+                    <a href="https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_92.pdf" target="_blank">NeurIPS Workshop on Machine Learning for Physical Sciences (ML4PS) 2020</a>
                     <strong>Deep learning-enhanced variational Monte Carlo method for quantum many-body physics</strong><br>
-                    <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.012039" target="_blank">
-                        <em>Phys. Rev. Research 2, 012039(R)</em><br>
-                    </a>
+                    <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.012039" target="_blank">Phys. Rev. Research 2, 012039(R)</a>
                 </div>
             </div>
         </div>

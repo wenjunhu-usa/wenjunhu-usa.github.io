@@ -59,15 +59,15 @@ title: Wenjun Hu - AI Research
         <div id="genai" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Generative AI & Large Language Models</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My work in generative AI focuses on developing more reliable and efficient language models through novel uncertainty quantification methods and data-efficient alignment techniques. I am particularly interested in creating multimodal systems that can seamlessly integrate text, image, and structured data to solve complex real-world problems.</p>
+                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My research explores how to leverage large language models (LLMs) with reinforcement learning (RL), guided by partial‑match rewards and verbal self‑evaluation, to generate executable SQL queries from natural‑language questions on complex, industry‑scale databases. The framework combines in‑context group self‑evaluation (verbal‑RL) and a chain‑of‑thought RL pipeline to improve execution accuracy, dialect generalization, and industrial robustness in text‑to‑SQL tasks.</p>
                 
-                <h4>Current Research Focus</h4>
+                <h4>Research Contributions</h4>
                 <ul style="margin-bottom: 20px;">
-                    <li>industrial applications</li>
-                    <li><strong>Uncertainty-Aware AI:</strong> Developing methods for more reliable AI systems</li>
-                    <li><strong>Data Efficiency:</strong> Creating</li>
-                    <li><strong>Industrial Translation:</strong> industrial applications</li>
-                    <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
+                    <li><strong>Execution-Accuracy Optimization:</strong> Improving SQL generation using partial-match reward functions.</li>
+                    <li><strong>Unsupervised Self-Evaluation:</strong> Introducing verbal reinforcement learning for iterative reasoning refinement.</li>
+                    <li><strong>Efficient Chain-of-Thought RL:</strong> Enabling smaller models to achieve high performance cost-effectively.</li>
+                    <li><strong>Dialect and Domain Generalization:</strong> Enhancing robustness across SQL dialects and industrial database schemas.</li>
+                    <li><strong>Industrial-Scale Deployment:</strong> Providing a scalable pipeline suitable for real-world database applications.</li>
                 </ul>
                 
                 <a href="genai.html" class="explore-button">Explore Research</a>
@@ -77,15 +77,15 @@ title: Wenjun Hu - AI Research
         <div id="computer-vision" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Computer Vision & Deep Learning</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My computer vision research </p>
+                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My research focuses on leveraging deep learning combined with Bayesian active learning to achieve data-efficient semantic segmentation. Using a pixel-level uncertainty-driven annotation framework it enables near fully-supervised performance with a fraction of labeled data, reducing annotation cost without compromising accuracy.</p>
                 
                 <h4>Research Contributions</h4>
                 <ul style="margin-bottom: 20px;">
-                    <li>industrial applications</li>
-                    <li><strong>Uncertainty-Aware AI:</strong> Developing methods for more reliable AI systems</li>
-                    <li><strong>Data Efficiency:</strong> Creating</li>
-                    <li><strong>Industrial Translation:</strong> industrial applications</li>
-                    <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
+                    <li><strong>Data Efficiency:</strong> Developing methods that achieve high segmentation accuracy using minimal labeled pixels.</li>
+                    <li><strong>Uncertainty-Aware Learning:</strong> Creating principled Bayesian measures to guide annotation and improve model reliability.</li>
+                    <li><strong>Scalable Active Learning:</strong> Designing acquisition strategies that can be efficiently applied to large datasets and high-resolution images.</li>
+                    <li><strong>Cross-Dataset Generalization:</strong> Building models and frameworks that maintain effectiveness across diverse segmentation benchmarks.</li>
+                    <li><strong>Industrial Translation:</strong> Providing practical strategies to reduce annotation cost, facilitating deployment in real-world applications such as autonomous driving, medical imaging, and remote sensing.</li>
                 </ul>
                 
                 <a href="computer-vision.html" class="explore-button">Explore Research</a>
@@ -95,7 +95,7 @@ title: Wenjun Hu - AI Research
         <div id="physics" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Scientific Machine Learning</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My research focuses on integrating deep neural networks (DNNs) and graph neural networks (GNNs) with variational Monte Carlo (VMC) methods to solve complex quantum many-body problems. The first paper demonstrates how convolutional DNNs can enhance VMC efficiency and accuracy, while the second introduces a scalable graph neural network (GNN) variational ansatz applicable to arbitrary geometries and larger system sizes. Together, these works showcase how deep learning can effectively and accurately tackle scientific problems in computational physics.</p>
+                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My research focuses on integrating deep neural networks (DNNs) and graph neural networks (GNNs) with variational Monte Carlo (VMC) methods to solve complex quantum many-body problems. Convolutional DNNs are used to enhance VMC efficiency and accuracy, while scalable graph neural network variational ansatzes enable application to arbitrary geometries and larger system sizes. Together, these approaches demonstrate how deep learning can effectively and accurately address challenging scientific problems in computational physics..</p>
                 
                 <h4>Research Contributions</h4>
                 <ul style="margin-bottom: 20px;">

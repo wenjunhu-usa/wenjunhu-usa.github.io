@@ -70,7 +70,10 @@ title: Wenjun Hu - AI Research
                     <li><strong>Industrial-Scale Deployment:</strong> Providing a scalable pipeline suitable for real-world database applications.</li>
                 </ul>
                 
-                <a href="genai.html" class="explore-button">Explore Research</a>
+                <div class="publication-item">
+                    <strong>PaVeRL-SQL: Text-to-SQL via Partial-Match Rewards and Verbal Reinforcement Learning</strong><br>
+                    <em>arXiv:2509.07159, 2025</em><br>
+                </div>
             </div>
         </div>
         
@@ -88,7 +91,10 @@ title: Wenjun Hu - AI Research
                     <li><strong>Industrial Translation:</strong> Providing practical strategies to reduce annotation cost, facilitating deployment in real-world applications such as autonomous driving, medical imaging, and remote sensing.</li>
                 </ul>
                 
-                <a href="computer-vision.html" class="explore-button">Explore Research</a>
+                <div class="publication-item">
+                    <strong>Bayesian active learning for semantic segmentation</strong><br>
+                    <em>arXiv:2408.01694, 2024</em><br>
+                </div>
             </div>
         </div>
         
@@ -107,26 +113,14 @@ title: Wenjun Hu - AI Research
                     <li><strong>Advancing Scientific Computation:</strong> Established deep learning as a viable tool for accelerating and enhancing quantum many-body simulations.</li>
                 </ul>
 
-                <a href="physics.html" class="explore-button">Explore Research</a>
+                <div class="publication-item">
+                    <strong>Scalable variational Monte Carlo with graph neural ansatz</strong><br>
+                    <em>NeurIPS Workshop on Machine Learning for Physical Sciences (ML4PS) 2020</em><br>
+                    <strong>Deep learning-enhanced variational Monte Carlo method for quantum many-body physics</strong><br>
+                    <em>Phys. Rev. Research 2, 012039(R)</em><br>
+                </div>
             </div>
         </div>
-    </div>
-</div>
-
-<div class="content-section">
-    <h2>Recent Publications</h2>
-    <p style="margin-bottom: 20px;">For a complete list of publications and citations, please visit my <a href="https://scholar.google.com/citations?user=rCG_IBgAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
-    
-    <div class="publication-item">
-        <strong>PaVeRL-SQL: Text-to-SQL via Partial-Match Rewards and Verbal Reinforcement Learning</strong><br>
-        <em>arXiv:2509.07159, 2025</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Novel uncertainty-aware reward model that significantly improves LLM alignment with reduced human feedback requirements. Demonstrates substantial improvements on Vicuna and MT-bench evaluations.</p>
-    </div>
-    
-    <div class="publication-item">
-        <strong>Bayesian active learning for semantic segmentation</strong><br>
-        <em>arXiv:2408.01694, 2024</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Introduces Beta distribution approximation for efficient uncertainty estimation in semantic segmentation, achieving significant annotation cost reductions.</p>
     </div>
 </div>
 

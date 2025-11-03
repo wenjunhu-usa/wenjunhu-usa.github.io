@@ -149,7 +149,10 @@ title: Wenjun Hu - AI Research
         
         <h4>Key Responsibilities:</h4>
         <ul>
-            <li>Develop and deploy products, solutions</li>
+            <li>Process and analyze data using various methods, design and maintain databases, and leverage large language models to interpret user data and database content.</li>
+            <li>Research and develop core AI algorithms while transforming cutting-edge models into practical, impactful solutions.</li>
+            <li>Develop and deploy AI-driven products, solutions, and pipelines to meet diverse user requirements.</li>
+            <li>Collaborate across teams to translate user needs into scalable AI systems and ensure smooth technology development and deployment.</li>
         </ul>
         
         <h4>Major Projects:</h4>

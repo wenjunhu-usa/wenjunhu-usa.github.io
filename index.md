@@ -95,15 +95,16 @@ title: Wenjun Hu - AI Research
         <div id="physics" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Scientific Machine Learning</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My optimization.</p>
+                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My research focuses on integrating deep neural networks (DNNs) and graph neural networks (GNNs) with variational Monte Carlo (VMC) methods to solve complex quantum many-body problems. The first paper demonstrates how convolutional DNNs can enhance VMC efficiency and accuracy, while the second introduces a scalable graph neural network (GNN) variational ansatz applicable to arbitrary geometries and larger system sizes. Together, these works showcase how deep learning can effectively and accurately tackle scientific problems in computational physics.</p>
                 
-                <h4>Key Methodologies</h4>
+                <h4>Research Contributions</h4>
                 <ul style="margin-bottom: 20px;">
-                    <li>industrial applications</li>
-                    <li><strong>Uncertainty-Aware AI:</strong> Developing methods for more reliable AI systems</li>
-                    <li><strong>Data Efficiency:</strong> Creating</li>
-                    <li><strong>Industrial Translation:</strong> industrial applications</li>
-                    <li><strong>Human-AI Collaboration:</strong> Designing systems</li>
+                    <li><strong>Deep Learning + Physics Simulation:</strong> Systematic integration of deep learning (DNNs/GNNs) into variational Monte Carlo methods.</li>
+                    <li><strong>High-Accuracy Scientific Computation:</strong> Achieved precise approximations of ground-state wavefunctions and related physical observables.</li>
+                    <li><strong>Scalability and Generality:</strong> Demonstrated applicability to larger system sizes and arbitrary geometries.</li>
+                    <li><strong>Algorithmic & System Innovations:</strong> Developed ISGO optimization, distributed training, and parameter-sharing mechanisms.</li>
+                    <li><strong>Transferability & Reusability:</strong> Graph-based neural network architectures enable reusability across systems.</li>
+                    <li><strong>Advancing Scientific Computation:</strong> Established deep learning as a viable tool for accelerating and enhancing quantum many-body simulations.</li>
                 </ul>
 
                 <a href="physics.html" class="explore-button">Explore Research</a>

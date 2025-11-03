@@ -166,11 +166,11 @@ title: Wenjun Hu - AI Research
         <div class="timeline-title">Senior Data Science Engineer</div>
         <div class="timeline-company">Nabors Industries | Houston, TX</div>
         <ul>
-            <li>Analyzing time series data and build RNN/LSTM/Transformer model for time series predictions.</li>
-            <li>Build MQTT publisher and subscriber for data communication.</li>
-            <li>Build postgresql database for storing time series data.</li>
-            <li>Build workflow with airflow for machine learning projects on Ubuntu server.</li>
-            <li>Applying ResNet/GoogleNet and LSTM for activity detection in videos.</li>
+            <li>Develop deep learning models (RNN, LSTM, Transformer) for time series forecasting and pattern analysis.</li>
+            <li>Implement MQTT-based communication systems with robust publisher–subscriber architecture for real-time data exchange.</li>
+            <li>Design and manage PostgreSQL databases optimized for large-scale time series data storage and retrieval.</li>
+            <li>Orchestrate end-to-end machine learning workflows using Apache Airflow on Ubuntu servers.</li>
+            <li>Apply ResNet, GoogleNet, and LSTM architectures for human activity recognition in video data.</li>
         </ul>
     </div>
     

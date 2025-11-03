@@ -72,7 +72,9 @@ title: Wenjun Hu - AI Research
                 
                 <div class="publication-item">
                     <strong>PaVeRL-SQL: Text-to-SQL via Partial-Match Rewards and Verbal Reinforcement Learning</strong><br>
-                    <em>arXiv:2509.07159, 2025</em><br>
+                    <a href="https://arxiv.org/abs/2509.07159" target="_blank">
+                        <em>arXiv:2509.07159</em><br>
+                    </a>
                 </div>
             </div>
         </div>
@@ -80,7 +82,7 @@ title: Wenjun Hu - AI Research
         <div id="computer-vision" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Computer Vision & Deep Learning</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My research focuses on leveraging deep learning combined with Bayesian active learning to achieve data-efficient semantic segmentation. Using a pixel-level uncertainty-driven annotation framework it enables near fully-supervised performance with a fraction of labeled data, reducing annotation cost without compromising accuracy.</p>
+                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My research focuses on leveraging deep learning combined with Bayesian active learning to achieve data-efficient semantic segmentation. Using a pixel-level uncertainty-driven annotation framework enables near fully supervised performance with a fraction of labeled data, reducing annotation cost without compromising accuracy.</p>
                 
                 <h4>Research Contributions</h4>
                 <ul style="margin-bottom: 20px;">
@@ -93,7 +95,9 @@ title: Wenjun Hu - AI Research
                 
                 <div class="publication-item">
                     <strong>Bayesian active learning for semantic segmentation</strong><br>
-                    <em>arXiv:2408.01694, 2024</em><br>
+                    <a href="https://arxiv.org/abs/2408.01694" target="_blank">
+                        <em>arXiv:2408.01694, 2024</em><br>
+                    </a>
                 </div>
             </div>
         </div>
@@ -115,9 +119,13 @@ title: Wenjun Hu - AI Research
 
                 <div class="publication-item">
                     <strong>Scalable variational Monte Carlo with graph neural ansatz</strong><br>
-                    <em>NeurIPS Workshop on Machine Learning for Physical Sciences (ML4PS) 2020</em><br>
+                    <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_92.pdf" target="_blank">
+                        <em>NeurIPS Workshop on Machine Learning for Physical Sciences (ML4PS) 2020</em><br>
+                    </a>
                     <strong>Deep learning-enhanced variational Monte Carlo method for quantum many-body physics</strong><br>
-                    <em>Phys. Rev. Research 2, 012039(R)</em><br>
+                    <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.012039" target="_blank">
+                        <em>Phys. Rev. Research 2, 012039(R)</em><br>
+                    </a>
                 </div>
             </div>
         </div>

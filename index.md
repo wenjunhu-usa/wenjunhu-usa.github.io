@@ -115,7 +115,7 @@ title: Wenjun Hu - AI Research
 
                 <div class="publication-item">
                     <strong>Scalable variational Monte Carlo with graph neural ansatz</strong>
-                    <a href="https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_92.pdf" target="_blank">NeurIPS Workshop on Machine Learning for Physical Sciences (ML4PS) 2020</a>
+                    <a href="https://arxiv.org/abs/2011.12453" target="_blank">arXiv:2011.12453</a>
                 </div>
                 
                 <div class="publication-item">
